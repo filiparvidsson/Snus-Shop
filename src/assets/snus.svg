@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlnsBx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="247.432" y1="132.493" x2="247.432" y2="438.839" id="gradient-0" gradientTransform="matrix(1.500979, 0.003499, -0.00296, 1.270063, -123.237136, -69.229388)">
+      <stop offset="0" style="stop-color: rgb(252, 252, 252);"/>
+      <stop offset="1" style="stop-color: rgb(219, 219, 219);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="247.432" y1="132.493" x2="247.432" y2="438.839" id="gradient-1" gradientTransform="matrix(1.376209, 0.003209, -0.002716, 1.164488, -92.596495, -41.424339)">
+      <stop offset="0" style="stop-color: rgb(252, 252, 252);"/>
+      <stop offset="1" style="stop-color: rgb(219, 219, 219);"/>
+    </linearGradient>
+    <style bxFonts="Black Han Sans">@import url(https://fonts.googleapis.com/css2?family=Black+Han+Sans%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <ellipse style="fill: url(#gradient-0); fill-rule: nonzero; paint-order: stroke; stroke: rgb(0, 0, 0); stroke-opacity: 0;" cx="246.854" cy="259.08" rx="229.455" ry="229.91"/>
+  <ellipse style="fill-rule: nonzero; fill: url(#gradient-1); paint-order: fill; stroke-opacity: 0.36; stroke: rgb(0, 0, 0);" cx="246.731" cy="259.593" rx="210.383" ry="210.799"/>
+  <ellipse style="fill-rule: nonzero; paint-order: stroke; stroke: rgb(0, 0, 0); stroke-opacity: 0;" cx="245.418" cy="261.021" rx="190.987" ry="191.365"/>
+  <text className="snusNumber" style="fill: rgb(255, 255, 255); font-family: &quot;Black Han Sans&quot;; font-size: 41.5px; text-anchor: middle; white-space: pre;" x="253.505" y="285.134">Snus nr. 00001</text>
+  <text className="seriesNumber" style="fill: rgb(255, 255, 255); font-family: &quot;Black Han Sans&quot;; font-size: 31.7px; text-anchor: middle; white-space: pre;" x="252.599" y="195.039">SERIE NO. X</text>
+  <text className="flavour" style="fill: rgb(255, 255, 255); font-family: &quot;Black Han Sans&quot;; font-size: 31.7px; text-anchor: middle; white-space: pre;" x="243.53" y="354.66">Smak</text>
+</svg>

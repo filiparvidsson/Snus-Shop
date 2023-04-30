@@ -1,0 +1,20 @@
+
+<svg viewBox="0 0 500 500">
+<defs>
+<linearGradient id="b" x1="247.43" x2="247.43" y1="132.49" y2="438.84" gradientTransform="matrix(1.501 .003499 -.00296 1.2701 -123.24 -69.229)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fcfcfc" offset="0"/>
+<stop stop-color="#dbdbdb" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="247.43" x2="247.43" y1="132.49" y2="438.84" gradientTransform="matrix(1.3762 .003209 -.002716 1.1645 -92.596 -41.424)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fcfcfc" offset="0"/>
+<stop stop-color="#dbdbdb" offset="1"/>
+</linearGradient>
+<style bxFonts="Black Han Sans">@import url(https://fonts.googleapis.com/css2?family=Black+Han+Sans%3Aital%2Cwght%400%2C400&display=swap);</style>
+</defs>
+<ellipse cx="246.85" cy="259.08" rx="229.46" ry="229.91" fill="url(#b)" stroke-opacity="0" style="paint-order:stroke"/>
+<ellipse cx="246.73" cy="259.59" rx="210.38" ry="210.8" fill="url(#a)" stroke="#000" stroke-opacity=".36" style="paint-order:fill"/>
+<ellipse cx="245.42" cy="261.02" rx="190.99" ry="191.36" stroke-opacity="0" style="paint-order:stroke"/>
+<text x="253.505" y="285.134" fill="rgb(255, 255, 255)" font-family="Black Han Sans" font-size="41.5px" text-anchor="middle" style="white-space:pre" className="snusNumber">Snus nr. 00001</text>
+<text x="252.599" y="195.039" fill="rgb(255, 255, 255)" font-family="Black Han Sans" font-size="31.7px" text-anchor="middle" style="white-space:pre" className="seriesNumber">SERIE NO. X</text>
+<text x="243.53" y="354.66" fill="rgb(255, 255, 255)" font-family="Black Han Sans" font-size="31.7px" text-anchor="middle" style="white-space:pre" className="flavour">Smak</text>
+</svg>
